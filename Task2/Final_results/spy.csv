@@ -1,0 +1,506 @@
+Date,Security Name,Symbol,Shares,Weight(%),52 Wk Change(%)
+06/11/2021,Apple Inc.,AAPL,162716620,5.97,31.61
+06/11/2021,Microsoft Corporation,MSFT,78125940,5.68,55.3
+06/11/2021,Amazon.com Inc.,AMZN,4446926,4.09,8.57
+06/11/2021,Facebook Inc. Class A,FB,24854552,2.31,18.7
+06/11/2021,Alphabet Inc. Class A,GOOGL,3119565,2.05,70.52
+06/11/2021,Alphabet Inc. Class C,GOOG,2953814,1.99,70.65
+06/11/2021,Berkshire Hathaway Inc. Class B,BRK.B,19660780,1.44,39.63
+06/11/2021,Tesla Inc,TSLA,7994185,1.42,190.3
+06/11/2021,NVIDIA Corporation,NVDA,6462430,1.39,115.68
+06/11/2021,JPMorgan Chase & Co.,JPM,31400878,1.28,67.63
+06/11/2021,Johnson & Johnson,JNJ,27316666,1.21,17.24
+06/11/2021,Visa Inc. Class A,V,17563342,1.1,11.7
+06/11/2021,UnitedHealth Group Incorporated,UNH,9788968,1.05,28.56
+06/11/2021,Home Depot Inc.,HD,11029229,0.93,30.31
+06/11/2021,PayPal Holdings Inc,PYPL,12185517,0.93,16.21
+06/11/2021,Procter & Gamble Company,PG,25395964,0.9,3.84
+06/11/2021,Mastercard Incorporated Class A,MA,9078971,0.89,13.54
+06/11/2021,Walt Disney Company,DIS,18847470,0.87,40.43
+06/11/2021,Bank of America Corp,BAC,78223510,0.84,98.35
+06/11/2021,Adobe Inc.,ADBE,4963551,0.77,36.02
+06/11/2021,Comcast Corporation Class A,CMCSA,47559010,0.73,23.34
+06/11/2021,Exxon Mobil Corporation,XOM,43914860,0.73,95.67
+06/11/2021,Netflix Inc.,NFLX,4599392,0.64,29.94
+06/11/2021,Verizon Communications Inc.,VZ,42945250,0.64,-8.7
+06/11/2021,salesforce.com inc.,CRM,9605655,0.62,22.54
+06/11/2021,Intel Corporation,INTC,41886544,0.62,11.42
+06/11/2021,Cisco Systems Inc.,CSCO,43717330,0.61,56.06
+06/11/2021,Pfizer Inc.,PFE,58065404,0.6,30.22
+06/11/2021,Coca-Cola Company,KO,40252936,0.57,15.6
+06/11/2021,Abbott Laboratories,ABT,18431132,0.57,11.51
+06/11/2021,AT&T Inc.,T,74064060,0.57,-7.17
+06/11/2021,PepsiCo Inc.,PEP,14331764,0.56,20.41
+06/11/2021,Chevron Corporation,CVX,20048832,0.56,59.87
+06/11/2021,NIKE Inc. Class B,NKE,13225204,0.55,39.4
+06/11/2021,AbbVie Inc.,ABBV,18291400,0.55,24.0
+06/11/2021,Thermo Fisher Scientific Inc.,TMO,4078801,0.55,20.71
+06/11/2021,Merck & Co. Inc.,MRK,26265318,0.54,1.23
+06/11/2021,Accenture Plc Class A,ACN,6593828,0.53,61.66
+06/11/2021,Walmart Inc.,WMT,14242780,0.52,5.83
+06/11/2021,Broadcom Inc.,AVGO,4228662,0.52,53.28
+06/11/2021,Eli Lilly and Company,LLY,8256935,0.51,78.34
+06/11/2021,Wells Fargo & Company,WFC,42821508,0.51,130.53
+06/11/2021,Texas Instruments Incorporated,TXN,9579771,0.48,27.21
+06/11/2021,Costco Wholesale Corporation,COST,4584800,0.48,36.41
+06/11/2021,McDonald's Corporation,MCD,7740268,0.47,18.54
+06/11/2021,Danaher Corporation,DHR,6584990,0.47,21.44
+06/11/2021,Medtronic Plc,MDT,13962952,0.46,20.03
+06/11/2021,Qualcomm Inc,QCOM,11701061,0.44,26.41
+06/11/2021,Philip Morris International Inc.,PM,16166733,0.42,31.81
+06/11/2021,Honeywell International Inc.,HON,7203796,0.42,26.35
+06/11/2021,United Parcel Service Inc. Class B,UPS,7502923,0.42,28.07
+06/11/2021,Linde plc,LIN,5414977,0.41,41.1
+06/11/2021,Bristol-Myers Squibb Company,BMY,23205266,0.41,-9.14
+06/11/2021,Union Pacific Corporation,UNP,6890691,0.41,27.89
+06/11/2021,Oracle Corporation,ORCL,18843952,0.4,68.08
+06/11/2021,Citigroup Inc.,C,21441712,0.4,59.2
+06/11/2021,NextEra Energy Inc.,NEE,20301070,0.4,16.65
+06/11/2021,Amgen Inc.,AMGN,5981882,0.39,-7.19
+06/11/2021,Lowe's Companies Inc.,LOW,7332912,0.38,40.02
+06/11/2021,Morgan Stanley,MS,15440027,0.37,94.19
+06/11/2021,Intuit Inc.,INTU,2836317,0.37,79.3
+06/11/2021,Starbucks Corporation,SBUX,12194577,0.37,30.2
+06/11/2021,Raytheon Technologies Corporation,RTX,15734181,0.36,60.47
+06/11/2021,Boeing Company,BA,5702380,0.35,48.03
+06/11/2021,Goldman Sachs Group Inc.,GS,3528940,0.35,105.73
+06/11/2021,BlackRock Inc.,BLK,1470064,0.34,46.58
+06/11/2021,Applied Materials Inc.,AMAT,9503059,0.34,136.34
+06/11/2021,International Business Machines Corporation,IBM,9253553,0.34,10.46
+06/11/2021,American Tower Corporation,AMT,4716659,0.34,17.19
+06/11/2021,Target Corporation,TGT,5131742,0.33,62.35
+06/11/2021,Caterpillar Inc.,CAT,5682322,0.32,32.63
+06/11/2021,General Electric Company,GE,90800640,0.32,73.15
+06/11/2021,3M Company,MMM,5997293,0.31,13.51
+06/11/2021,Advanced Micro Devices Inc.,AMD,12603582,0.31,67.6
+06/11/2021,Intuitive Surgical Inc.,ISRG,1228398,0.3,54.28
+06/11/2021,Deere & Company,DE,3245564,0.3,52.25
+06/11/2021,American Express Company,AXP,6758244,0.3,83.29
+06/11/2021,Charles Schwab Corporation,SCHW,15558240,0.3,98.7
+06/11/2021,ServiceNow Inc.,NOW,2048050,0.3,34.74
+06/11/2021,CVS Health Corporation,CVS,13656975,0.29,55.34
+06/11/2021,Charter Communications Inc. Class A,CHTR,1428547,0.27,8.65
+06/11/2021,S&P Global Inc.,SPGI,2493146,0.27,31.1
+06/11/2021,Anthem Inc.,ANTM,2536671,0.26,28.73
+06/11/2021,Lockheed Martin Corporation,LMT,2537060,0.25,-8.67
+06/11/2021,Booking Holdings Inc.,BKNG,424294,0.25,52.86
+06/11/2021,Zoetis Inc. Class A,ZTS,4921668,0.25,24.31
+06/11/2021,Fidelity National Information Services Inc.,FIS,6433352,0.25,-14.41
+06/11/2021,Lam Research Corporation,LRCX,1480199,0.24,60.59
+06/11/2021,Micron Technology Inc.,MU,11632665,0.24,40.34
+06/11/2021,Prologis Inc.,PLD,7659895,0.24,38.64
+06/11/2021,Mondelez International Inc. Class A,MDLZ,14624982,0.24,13.32
+06/11/2021,Altria Group Inc,MO,19250392,0.24,18.7
+06/11/2021,Gilead Sciences Inc.,GILD,13015394,0.24,10.77
+06/11/2021,Stryker Corporation,SYK,3390060,0.24,32.94
+06/11/2021,Automatic Data Processing Inc.,ADP,4432098,0.23,39.51
+06/11/2021,T-Mobile US Inc.,TMUS,6078796,0.23,5.73
+06/11/2021,ConocoPhillips,COP,14031067,0.23,148.35
+06/11/2021,Crown Castle International Corp,CCI,4467869,0.23,11.1
+06/11/2021,TJX Companies Inc,TJX,12510085,0.22,33.71
+06/11/2021,Cigna Corporation,CI,3559459,0.22,1.66
+06/11/2021,PNC Financial Services Group Inc.,PNC,4392249,0.22,83.5
+06/11/2021,U.S. Bancorp,USB,14156155,0.21,55.62
+06/11/2021,CME Group Inc. Class A,CME,3718900,0.21,47.32
+06/11/2021,Duke Energy Corporation,DUK,7961987,0.21,8.69
+06/11/2021,Truist Financial Corporation,TFC,13953451,0.2,50.63
+06/11/2021,General Motors Company,GM,13242165,0.2,66.06
+06/11/2021,CSX Corporation,CSX,23689716,0.2,25.23
+06/11/2021,Estee Lauder Companies Inc. Class A,EL,2405679,0.2,53.46
+06/11/2021,FedEx Corporation,FDX,2532275,0.2,-9.78
+06/11/2021,Activision Blizzard Inc.,ATVI,8025522,0.2,-14.54
+06/11/2021,Chubb Limited,CB,4663279,0.2,45.31
+06/11/2021,Marsh & McLennan Companies Inc.,MMC,5262899,0.2,48.12
+06/11/2021,Becton Dickinson and Company,BDX,3008887,0.2,2.92
+06/11/2021,Equinix Inc.,EQIX,929316,0.19,0.6
+06/11/2021,Capital One Financial Corporation,COF,4683384,0.19,104.99
+06/11/2021,Colgate-Palmolive Company,CL,8786542,0.19,-7.18
+06/11/2021,Illumina Inc.,ILMN,1512088,0.19,31.1
+06/11/2021,Norfolk Southern Corporation,NSC,2608057,0.19,28.58
+06/11/2021,Intercontinental Exchange Inc.,ICE,5817272,0.18,38.35
+06/11/2021,Edwards Lifesciences Corporation,EW,6471851,0.18,56.18
+06/11/2021,Sherwin-Williams Company,SHW,2482886,0.18,32.2
+06/11/2021,Autodesk Inc.,ADSK,2279126,0.18,31.98
+06/11/2021,Fiserv Inc.,FISV,6169650,0.18,-0.82
+06/11/2021,Southern Company,SO,10942406,0.18,5.59
+06/11/2021,Illinois Tool Works Inc.,ITW,2983684,0.18,15.48
+06/11/2021,Air Products and Chemicals Inc.,APD,2291334,0.17,6.92
+06/11/2021,Analog Devices Inc.,ADI,3823062,0.17,46.24
+06/11/2021,Boston Scientific Corporation,BSX,14688316,0.17,22.3
+06/11/2021,Regeneron Pharmaceuticals Inc.,REGN,1091128,0.17,4.16
+06/11/2021,Eaton Corp. Plc,ETN,4126135,0.16,61.76
+06/11/2021,Dominion Energy Inc,D,8343113,0.16,-7.46
+06/11/2021,Moody's Corporation,MCO,1667695,0.16,35.54
+06/11/2021,Emerson Electric Co.,EMR,6218423,0.16,43.7
+06/11/2021,Ford Motor Company,F,40504320,0.16,152.49
+06/11/2021,Humana Inc.,HUM,1335527,0.16,0.31
+06/11/2021,Progressive Corporation,PGR,6065700,0.16,-0.02
+06/11/2021,Global Payments Inc.,GPN,3059856,0.16,-19.96
+06/11/2021,HCA Healthcare Inc,HCA,2746943,0.15,88.37
+06/11/2021,NXP Semiconductors NV,NXPI,2870390,0.15,60.89
+06/11/2021,IDEXX Laboratories Inc.,IDXX,885265,0.15,35.8
+06/11/2021,Northrop Grumman Corporation,NOC,1552686,0.15,15.44
+06/11/2021,Waste Management Inc.,WM,4034595,0.15,37.78
+06/11/2021,Twitter Inc.,TWTR,8271794,0.15,24.3
+06/11/2021,Aon Plc Class A,AON,2341997,0.15,57.25
+06/11/2021,Freeport-McMoRan Inc.,FCX,15105556,0.15,105.78
+06/11/2021,Biogen Inc.,BIIB,1561834,0.14,-21.64
+06/11/2021,Ecolab Inc.,ECL,2577673,0.14,20.21
+06/11/2021,Vertex Pharmaceuticals Incorporated,VRTX,2694109,0.14,-10.34
+06/11/2021,Dollar General Corporation,DG,2450056,0.14,4.35
+06/11/2021,Newmont Corporation,NEM,8294664,0.14,-13.4
+06/11/2021,EOG Resources Inc.,EOG,6048287,0.14,163.93
+06/11/2021,Johnson Controls International plc,JCI,7463772,0.14,78.54
+06/11/2021,Roper Technologies Inc.,ROP,1087676,0.13,24.58
+06/11/2021,KLA Corporation,KLAC,1596398,0.13,88.97
+06/11/2021,IQVIA Holdings Inc,IQV,1982514,0.13,44.64
+06/11/2021,Dow Inc.,DOW,7722126,0.13,25.53
+06/11/2021,T. Rowe Price Group,TROW,2359745,0.13,62.78
+06/11/2021,Public Storage,PSA,1574946,0.12,37.24
+06/11/2021,Schlumberger NV,SLB,14489497,0.12,109.83
+06/11/2021,TE Connectivity Ltd.,TEL,3429264,0.12,56.68
+06/11/2021,Kimberly-Clark Corporation,KMB,3503025,0.12,-2.14
+06/11/2021,MetLife Inc.,MET,7788890,0.12,64.08
+06/11/2021,Agilent Technologies Inc.,A,3157712,0.12,44.17
+06/11/2021,eBay Inc.,EBAY,6699653,0.12,58.03
+06/11/2021,L3Harris Technologies Inc,LHX,2130421,0.12,22.19
+06/11/2021,Ross Stores Inc.,ROST,3689920,0.12,29.77
+06/11/2021,Align Technology Inc.,ALGN,746164,0.12,42.14
+06/11/2021,MSCI Inc. Class A,MSCI,855918,0.12,64.07
+06/11/2021,Trane Technologies plc,TT,2471349,0.12,34.54
+06/11/2021,Chipotle Mexican Grill Inc.,CMG,291638,0.12,40.47
+06/11/2021,Exelon Corporation,EXC,10119298,0.12,28.23
+06/11/2021,General Dynamics Corporation,GD,2402513,0.12,44.51
+06/11/2021,Aptiv PLC,APTV,2798497,0.12,76.35
+06/11/2021,Centene Corporation,CNC,6027762,0.12,15.91
+06/11/2021,Simon Property Group Inc.,SPG,3404779,0.12,173.76
+06/11/2021,Synopsys Inc.,SNPS,1579250,0.12,46.05
+06/11/2021,Sempra Energy,SRE,3268390,0.12,-0.84
+06/11/2021,DuPont de Nemours Inc.,DD,5578348,0.12,38.24
+06/11/2021,IHS Markit Ltd.,INFO,3864284,0.12,46.92
+06/11/2021,American Electric Power Company Inc.,AEP,5147398,0.11,-5.67
+06/11/2021,Digital Realty Trust Inc.,DLR,2910856,0.11,5.04
+06/11/2021,Amphenol Corporation Class A,APH,6209347,0.11,40.51
+06/11/2021,American International Group Inc.,AIG,8961082,0.11,86.64
+06/11/2021,DexCom Inc.,DXCM,996845,0.11,84.46
+06/11/2021,Bank of New York Mellon Corporation,BK,8361384,0.11,69.51
+06/11/2021,Baxter International Inc.,BAX,5234160,0.11,3.13
+06/11/2021,Electronic Arts Inc.,EA,2980769,0.11,11.38
+06/11/2021,Alexion Pharmaceuticals Inc.,ALXN,2278499,0.11,47.95
+06/11/2021,Prudential Financial Inc.,PRU,4113604,0.11,75.81
+06/11/2021,O'Reilly Automotive Inc.,ORLY,727457,0.11,41.65
+06/11/2021,Microchip Technology Incorporated,MCHP,2837306,0.11,51.36
+06/11/2021,PPG Industries Inc.,PPG,2455897,0.11,22.8
+06/11/2021,Allstate Corporation,ALL,3137914,0.11,27.29
+06/11/2021,Parker-Hannifin Corporation,PH,1337773,0.11,49.47
+06/11/2021,Marathon Petroleum Corporation,MPC,6748901,0.11,107.6
+06/11/2021,Carrier Global Corp.,CARR,8468494,0.11,43.53
+06/11/2021,Constellation Brands Inc. Class A,STZ,1762126,0.11,23.14
+06/11/2021,Sysco Corporation,SYY,5290026,0.11,33.87
+06/11/2021,Pioneer Natural Resources Company,PXD,2404175,0.11,121.92
+06/11/2021,Cadence Design Systems Inc.,CDNS,2891138,0.1,47.12
+06/11/2021,Phillips 66,PSX,4527267,0.1,62.29
+06/11/2021,Travelers Companies Inc.,TRV,2613772,0.1,29.34
+06/11/2021,Marriott International Inc. Class A,MAR,2757236,0.1,70.96
+06/11/2021,Motorola Solutions Inc.,MSI,1752026,0.1,54.33
+06/11/2021,International Flavors & Fragrances Inc.,IFF,2577994,0.1,36.74
+06/11/2021,Cognizant Technology Solutions Corporation Class A,CTSH,5498543,0.1,9.44
+06/11/2021,HP Inc.,HPQ,12460849,0.1,74.78
+06/11/2021,Discover Financial Services,DFS,3178423,0.1,71.61
+06/11/2021,General Mills Inc.,GIS,6336298,0.1,3.61
+06/11/2021,ResMed Inc.,RMD,1507823,0.1,24.42
+06/11/2021,TransDigm Group Incorporated,TDG,566704,0.1,29.9
+06/11/2021,Kinder Morgan Inc Class P,KMI,20177922,0.1,43.28
+06/11/2021,Xcel Energy Inc.,XEL,5582796,0.1,-12.27
+06/11/2021,Cummins Inc.,CMI,1533430,0.1,6.4
+06/11/2021,Xilinx Inc.,XLNX,2547183,0.1,54.77
+06/11/2021,Welltower Inc.,WELL,4325746,0.1,48.45
+06/11/2021,SBA Communications Corp. Class A,SBAC,1132852,0.1,13.97
+06/11/2021,Hilton Worldwide Holdings Inc,HLT,2877372,0.1,63.11
+06/11/2021,Paychex Inc.,PAYX,3326346,0.09,45.78
+06/11/2021,Aflac Incorporated,AFL,6634545,0.09,55.35
+06/11/2021,Walgreens Boots Alliance Inc,WBA,7432808,0.09,38.31
+06/11/2021,Zimmer Biomet Holdings Inc.,ZBH,2154483,0.09,3.55
+06/11/2021,Archer-Daniels-Midland Company,ADM,5787510,0.09,38.66
+06/11/2021,Cintas Corporation,CTAS,914334,0.09,31.0
+06/11/2021,Otis Worldwide Corporation,OTIS,4223865,0.09,31.16
+06/11/2021,Monster Beverage Corporation,MNST,3831789,0.09,10.77
+06/11/2021,Fortinet Inc.,FTNT,1403450,0.09,193.52
+06/11/2021,AutoZone Inc.,AZO,224354,0.09,57.53
+06/11/2021,Stanley Black & Decker Inc.,SWK,1667217,0.09,4.69
+06/11/2021,First Republic Bank,FRC,1813834,0.09,77.7
+06/11/2021,Rockwell Automation Inc.,ROK,1203630,0.09,39.69
+06/11/2021,Corteva Inc,CTVA,7709531,0.09,45.21
+06/11/2021,Mettler-Toledo International Inc.,MTD,242653,0.09,40.57
+06/11/2021,Williams Companies Inc.,WMB,12580082,0.09,49.61
+06/11/2021,Valero Energy Corporation,VLO,4234527,0.09,99.95
+06/11/2021,Southwest Airlines Co.,LUV,6122038,0.09,34.16
+06/11/2021,Corning Inc,GLW,7962879,0.09,14.24
+06/11/2021,Skyworks Solutions Inc.,SWKS,1708919,0.09,17.58
+06/11/2021,AMETEK Inc.,AME,2389584,0.08,33.73
+06/11/2021,SVB Financial Group,SIVB,563393,0.08,152.06
+06/11/2021,PACCAR Inc,PCAR,3595891,0.08,1.41
+06/11/2021,McKesson Corporation,MCK,1647508,0.08,33.52
+06/11/2021,D.R. Horton Inc.,DHI,3429286,0.08,23.75
+06/11/2021,ANSYS Inc.,ANSS,895868,0.08,23.52
+06/11/2021,Public Service Enterprise Group Inc,PEG,5235009,0.08,9.91
+06/11/2021,Fastenal Company,FAST,5952323,0.08,24.96
+06/11/2021,Willis Towers Watson Public Limited Company,WLTW,1336594,0.08,25.54
+06/11/2021,State Street Corporation,STT,3644917,0.08,58.34
+06/11/2021,Equifax Inc.,EFX,1262377,0.08,87.27
+06/11/2021,AvalonBay Communities Inc.,AVB,1445993,0.08,60.35
+06/11/2021,Ameriprise Financial Inc.,AMP,1209657,0.08,81.26
+06/11/2021,Kroger Co.,KR,7889451,0.08,31.88
+06/11/2021,Verisk Analytics Inc,VRSK,1687211,0.08,9.27
+06/11/2021,Zebra Technologies Corporation Class A,ZBRA,554358,0.08,84.55
+06/11/2021,CBRE Group Inc. Class A,CBRE,3478487,0.08,105.19
+06/11/2021,Arthur J. Gallagher & Co.,AJG,2125437,0.08,43.41
+06/11/2021,Nucor Corporation,NUE,3088835,0.08,138.98
+06/11/2021,Keysight Technologies Inc,KEYS,1928125,0.08,70.39
+06/11/2021,American Water Works Company Inc.,AWK,1880450,0.08,9.17
+06/11/2021,WEC Energy Group Inc,WEC,3269189,0.08,-10.75
+06/11/2021,Delta Air Lines Inc.,DAL,6614454,0.08,45.55
+06/11/2021,Copart Inc.,CPRT,2155502,0.08,26.85
+06/11/2021,Maxim Integrated Products Inc.,MXIM,2777980,0.08,38.07
+06/11/2021,Lennar Corporation Class A,LEN,2845228,0.08,31.22
+06/11/2021,Eversource Energy,ES,3554838,0.08,-7.54
+06/11/2021,Fifth Third Bancorp,FITB,7368119,0.07,90.82
+06/11/2021,Occidental Petroleum Corporation,OXY,8689738,0.07,240.67
+06/11/2021,Laboratory Corporation of America Holdings,LH,1011796,0.07,29.82
+06/11/2021,V.F. Corporation,VFC,3327975,0.07,6.41
+06/11/2021,West Pharmaceutical Services Inc.,WST,767663,0.07,39.34
+06/11/2021,Equity Residential,EQR,3553686,0.07,66.39
+06/11/2021,Ball Corporation,BLL,3398529,0.07,-3.85
+06/11/2021,ViacomCBS Inc. Class B,VIAC,6281919,0.07,22.07
+06/11/2021,LyondellBasell Industries NV,LYB,2666715,0.07,33.65
+06/11/2021,Synchrony Financial,SYF,5628381,0.07,85.48
+06/11/2021,Kraft Heinz Company,KHC,6719030,0.07,18.92
+06/11/2021,Generac Holdings Inc.,GNRC,651481,0.07,98.16
+06/11/2021,Kansas City Southern,KSU,941856,0.07,71.7
+06/11/2021,Best Buy Co. Inc.,BBY,2312225,0.07,7.68
+06/11/2021,Weyerhaeuser Company,WY,7750084,0.07,34.59
+06/11/2021,ONEOK Inc.,OKE,4612134,0.07,126.29
+06/11/2021,Hershey Company,HSY,1518726,0.07,21.85
+06/11/2021,Enphase Energy Inc.,ENPH,1407615,0.07,124.03
+06/11/2021,Alexandria Real Estate Equities Inc.,ARE,1423061,0.07,29.99
+06/11/2021,Realty Income Corporation,O,3869806,0.07,22.68
+06/11/2021,Etsy Inc.,ETSY,1318499,0.07,90.98
+06/11/2021,CDW Corp.,CDW,1461180,0.07,39.76
+06/11/2021,Consolidated Edison Inc.,ED,3549193,0.07,-1.7
+06/11/2021,Old Dominion Freight Line Inc.,ODFL,993590,0.07,74.07
+06/11/2021,Cerner Corporation,CERN,3173372,0.07,4.76
+06/11/2021,Northern Trust Corporation,NTRS,2159042,0.07,56.64
+06/11/2021,International Paper Company,IP,4073799,0.07,8.38
+06/11/2021,Hess Corporation,HES,2832074,0.07,121.79
+06/11/2021,Fortive Corp.,FTV,3503717,0.06,21.8
+06/11/2021,Expedia Group Inc.,EXPE,1467118,0.06,84.94
+06/11/2021,Republic Services Inc.,RSG,2181265,0.06,41.43
+06/11/2021,Dollar Tree Inc.,DLTR,2436868,0.06,15.49
+06/11/2021,United Rentals Inc.,URI,748558,0.06,118.74
+06/11/2021,VeriSign Inc.,VRSN,1031129,0.06,14.39
+06/11/2021,Vulcan Materials Company,VMC,1373644,0.06,43.78
+06/11/2021,Clorox Company,CLX,1303180,0.06,-23.33
+06/11/2021,Extra Space Storage Inc.,EXR,1387226,0.06,65.83
+06/11/2021,Hartford Financial Services Group Inc.,HIG,3705025,0.06,87.99
+06/11/2021,Qorvo Inc.,QRVO,1173487,0.06,16.7
+06/11/2021,Waters Corporation,WAT,643982,0.06,61.01
+06/11/2021,McCormick & Company Incorporated,MKC,2580377,0.06,-14.03
+06/11/2021,Garmin Ltd.,GRMN,1548613,0.06,27.79
+06/11/2021,Gartner Inc.,IT,892991,0.06,133.0
+06/11/2021,Tractor Supply Company,TSCO,1205185,0.06,62.0
+06/11/2021,Dover Corporation,DOV,1488894,0.06,50.16
+06/11/2021,Xylem Inc.,XYL,1869091,0.06,50.97
+06/11/2021,Martin Marietta Materials Inc.,MLM,645602,0.06,62.48
+06/11/2021,CarMax Inc.,KMX,1684594,0.06,68.97
+06/11/2021,PPL Corporation,PPL,7969919,0.06,2.87
+06/11/2021,Tyson Foods Inc. Class A,TSN,3054708,0.06,44.25
+06/11/2021,Expeditors International of Washington Inc.,EXPD,1755394,0.06,43.99
+06/11/2021,DTE Energy Company,DTE,2008221,0.06,-8.82
+06/11/2021,FLEETCOR Technologies Inc.,FLT,864425,0.06,3.19
+06/11/2021,Edison International,EIX,3931115,0.06,11.53
+06/11/2021,Western Digital Corporation,WDC,3171005,0.06,49.77
+06/11/2021,Ventas Inc.,VTR,3883230,0.06,29.54
+06/11/2021,Teradyne Inc.,TER,1727146,0.06,50.46
+06/11/2021,Caesars Entertainment Inc,CZR,2158599,0.06,103.98
+06/11/2021,Huntington Bancshares Incorporated,HBAN,15271205,0.06,57.24
+06/11/2021,Halliburton Company,HAL,9212777,0.06,94.26
+06/11/2021,Church & Dwight Co. Inc.,CHD,2540046,0.06,-1.1
+06/11/2021,Carnival Corporation,CCL,8268679,0.06,85.83
+06/11/2021,Trimble Inc.,TRMB,2600636,0.06,62.89
+06/11/2021,Ameren Corporation,AEE,2651062,0.06,2.46
+06/11/2021,Nasdaq Inc.,NDAQ,1195208,0.06,64.6
+06/11/2021,STERIS Plc,STE,1010353,0.06,26.44
+06/11/2021,Take-Two Interactive Software Inc.,TTWO,1193745,0.06,14.34
+06/11/2021,Entergy Corporation,ETR,2077739,0.06,-1.42
+06/11/2021,FirstEnergy Corp.,FE,5629768,0.06,34.45
+06/11/2021,KeyCorp,KEY,10041331,0.05,88.84
+06/11/2021,Cooper Companies Inc.,COO,509419,0.05,28.0
+06/11/2021,Arista Networks Inc.,ANET,567944,0.05,108.51
+06/11/2021,Albemarle Corporation,ALB,1208821,0.05,191.67
+06/11/2021,Essex Property Trust Inc.,ESS,673523,0.05,49.48
+06/11/2021,Ulta Beauty Inc,ULTA,583378,0.05,80.31
+06/11/2021,W.W. Grainger Inc.,GWW,455857,0.05,26.21
+06/11/2021,Teledyne Technologies Incorporated,TDY,481147,0.05,34.52
+06/11/2021,Citizens Financial Group Inc.,CFG,4406082,0.05,78.85
+06/11/2021,Mid-America Apartment Communities Inc.,MAA,1185358,0.05,64.89
+06/11/2021,Regions Financial Corporation,RF,9956448,0.05,85.15
+06/11/2021,Darden Restaurants Inc.,DRI,1350784,0.05,59.93
+06/11/2021,Akamai Technologies Inc.,AKAM,1691340,0.05,8.0
+06/11/2021,Teleflex Incorporated,TFX,484241,0.05,7.47
+06/11/2021,Hewlett Packard Enterprise Co.,HPE,13436514,0.05,75.28
+06/11/2021,Broadridge Financial Solutions Inc.,BR,1200028,0.05,20.0
+06/11/2021,Catalent Inc,CTLT,1766846,0.05,20.39
+06/11/2021,Tyler Technologies Inc.,TYL,420648,0.05,31.31
+06/11/2021,Paycom Software Inc.,PAYC,508686,0.05,26.92
+06/11/2021,Royal Caribbean Group,RCL,2268897,0.05,69.66
+06/11/2021,Pool Corporation,POOL,417024,0.05,37.33
+06/11/2021,M&T Bank Corporation,MTB,1332892,0.05,57.56
+06/11/2021,Charles River Laboratories International Inc.,CRL,516231,0.05,50.53
+06/11/2021,Genuine Parts Company,GPC,1496535,0.05,43.82
+06/11/2021,NetApp Inc.,NTAP,2306938,0.05,101.57
+06/11/2021,Domino's Pizza Inc.,DPZ,402183,0.05,26.33
+06/11/2021,Ingersoll Rand Inc.,IR,3862833,0.05,50.38
+06/11/2021,Amcor PLC,AMCR,16182948,0.05,9.47
+06/11/2021,Healthpeak Properties Inc.,PEAK,5583148,0.05,20.06
+06/11/2021,Duke Realty Corporation,DRE,3873008,0.05,36.92
+06/11/2021,Quest Diagnostics Incorporated,DGX,1382368,0.05,11.76
+06/11/2021,MGM Resorts International,MGM,4255872,0.05,134.93
+06/11/2021,Viatris Inc.,VTRS,12510676,0.05,-8.92
+06/11/2021,Diamondback Energy Inc.,FANG,1874111,0.05,319.58
+06/11/2021,NVR Inc.,NVR,35850,0.05,20.65
+06/11/2021,Cincinnati Financial Corporation,CINF,1553656,0.05,74.42
+06/11/2021,Celanese Corporation,CE,1182668,0.05,47.09
+06/11/2021,MarketAxess Holdings Inc.,MKTX,393654,0.05,-33.04
+06/11/2021,Conagra Brands Inc.,CAG,5061710,0.05,-10.2
+06/11/2021,Seagate Technology Holdings PLC,STX,2080998,0.05,91.7
+06/11/2021,AES Corporation,AES,6922231,0.05,25.33
+06/11/2021,Hologic Inc.,HOLX,2669521,0.05,-6.48
+06/11/2021,PerkinElmer Inc.,PKI,1161361,0.05,25.03
+06/11/2021,Las Vegas Sands Corp.,LVS,3404308,0.05,-14.57
+06/11/2021,Avery Dennison Corporation,AVY,860440,0.05,57.92
+06/11/2021,Omnicom Group Inc,OMC,2228787,0.05,43.81
+06/11/2021,Devon Energy Corporation,DVN,6138243,0.05,344.24
+06/11/2021,L Brands Inc.,LB,2421931,0.05,137.15
+06/11/2021,CMS Energy Corporation,CMS,2989380,0.05,-6.26
+06/11/2021,Jacobs Engineering Group Inc.,J,1347953,0.05,49.12
+06/11/2021,AmerisourceBergen Corporation,ABC,1527602,0.05,21.51
+06/11/2021,Baker Hughes Company Class A,BKR,7554728,0.05,58.37
+06/11/2021,Cardinal Health Inc.,CAH,3042694,0.05,0.2
+06/11/2021,United Airlines Holdings Inc.,UAL,3302214,0.05,58.1
+06/11/2021,IDEX Corporation,IEX,786372,0.05,32.57
+06/11/2021,Boston Properties Inc.,BXP,1469678,0.04,56.95
+06/11/2021,Kellogg Company,K,2637024,0.04,-1.6
+06/11/2021,Raymond James Financial Inc.,RJF,1271875,0.04,94.58
+06/11/2021,Principal Financial Group Inc.,PFG,2627448,0.04,65.27
+06/11/2021,Monolithic Power Systems Inc.,MPWR,439950,0.04,62.65
+06/11/2021,Eastman Chemical Company,EMN,1407816,0.04,34.88
+06/11/2021,NortonLifeLock Inc.,NLOK,6030579,0.04,12.69
+06/11/2021,Textron Inc.,TXT,2351626,0.04,103.47
+06/11/2021,Incyte Corporation,INCY,1936161,0.04,-25.6
+06/11/2021,PTC Inc.,PTC,1089292,0.04,36.36
+06/11/2021,Masco Corporation,MAS,2664415,0.04,11.95
+06/11/2021,UDR Inc.,UDR,3073440,0.04,60.12
+06/11/2021,PulteGroup Inc.,PHM,2755996,0.04,8.87
+06/11/2021,Citrix Systems Inc.,CTXS,1274721,0.04,-23.68
+06/11/2021,Westinghouse Air Brake Technologies Corporation,WAB,1840525,0.04,52.67
+06/11/2021,CenterPoint Energy Inc.,CNP,6021483,0.04,23.7
+06/11/2021,Bio-Rad Laboratories Inc. Class A,BIO,223301,0.04,16.14
+06/11/2021,ABIOMED Inc.,ABMD,468868,0.04,35.76
+06/11/2021,J.M. Smucker Company,SJM,1136569,0.04,9.77
+06/11/2021,Alliant Energy Corp,LNT,2589684,0.04,1.95
+06/11/2021,LKQ Corporation,LKQ,2891915,0.04,71.7
+06/11/2021,FMC Corporation,FMC,1340532,0.04,1.68
+06/11/2021,DENTSPLY SIRONA Inc.,XRAY,2269866,0.04,16.02
+06/11/2021,Evergy Inc.,EVRG,2352709,0.04,16.33
+06/11/2021,Whirlpool Corporation,WHR,650414,0.04,12.21
+06/11/2021,WestRock Company,WRK,2731156,0.04,26.62
+06/11/2021,Advance Auto Parts Inc.,AAP,678980,0.04,47.71
+06/11/2021,J.B. Hunt Transport Services Inc.,JBHT,865378,0.04,53.46
+06/11/2021,American Airlines Group Inc.,AAL,6653132,0.04,98.27
+06/11/2021,Fortune Brands Home & Security Inc.,FBHS,1437192,0.04,16.6
+06/11/2021,Leidos Holdings Inc.,LDOS,1382281,0.04,2.57
+06/11/2021,Brown-Forman Corporation Class B,BF.B,1893301,0.04,-1.53
+06/11/2021,Lumen Technologies Inc.,LUMN,10232872,0.04,60.34
+06/11/2021,Howmet Aerospace Inc.,HWM,4044603,0.04,83.82
+06/11/2021,Hormel Foods Corporation,HRL,2911247,0.04,-13.84
+06/11/2021,Packaging Corporation of America,PKG,982864,0.04,14.32
+06/11/2021,Interpublic Group of Companies Inc.,IPG,4049119,0.04,92.7
+06/11/2021,Wynn Resorts Limited,WYNN,1090376,0.03,27.33
+06/11/2021,Allegion PLC,ALLE,940176,0.03,29.4
+06/11/2021,Atmos Energy Corporation,ATO,1355478,0.03,-1.67
+06/11/2021,Cboe Global Markets Inc,CBOE,1111080,0.03,53.18
+06/11/2021,Jack Henry & Associates Inc.,JKHY,788076,0.03,-2.51
+06/11/2021,C.H. Robinson Worldwide Inc.,CHRW,1386443,0.03,6.48
+06/11/2021,Live Nation Entertainment Inc.,LYV,1487223,0.03,126.2
+06/11/2021,Loews Corporation,L,2351019,0.03,57.15
+06/11/2021,Fox Corporation Class A,FOXA,3463385,0.03,61.84
+06/11/2021,Quanta Services Inc.,PWR,1434261,0.03,85.03
+06/11/2021,Hasbro Inc.,HAS,1323658,0.03,16.53
+06/11/2021,Iron Mountain Inc.,IRM,2988660,0.03,79.0
+06/11/2021,Host Hotels & Resorts Inc.,HST,7310532,0.03,67.15
+06/11/2021,Snap-on Incorporated,SNA,561736,0.03,34.5
+06/11/2021,Tapestry Inc.,TPR,2879309,0.03,78.31
+06/11/2021,Universal Health Services Inc. Class B,UHS,806592,0.03,15.68
+06/11/2021,Lamb Weston Holdings Inc.,LW,1516695,0.03,-14.21
+06/11/2021,BorgWarner Inc.,BWA,2476519,0.03,30.86
+06/11/2021,Lincoln National Corporation,LNC,1869566,0.03,106.85
+06/11/2021,F5 Networks Inc.,FFIV,638344,0.03,65.43
+06/11/2021,Mohawk Industries Inc.,MHK,611438,0.03,49.89
+06/11/2021,Pentair plc,PNR,1721095,0.03,43.18
+06/11/2021,Penn National Gaming Inc.,PENN,1541683,0.03,3.4
+06/11/2021,CF Industries Holdings Inc.,CF,2217527,0.03,122.06
+06/11/2021,Marathon Oil Corporation,MRO,8180965,0.03,299.77
+06/11/2021,Mosaic Company,MOS,3575652,0.03,122.99
+06/11/2021,Henry Schein Inc.,HSIC,1476019,0.03,33.63
+06/11/2021,W. R. Berkley Corporation,WRB,1452396,0.03,29.22
+06/11/2021,Norwegian Cruise Line Holdings Ltd.,NCLH,3766058,0.03,78.96
+06/11/2021,DISH Network Corporation Class A,DISH,2563906,0.03,42.81
+06/11/2021,DXC Technology Co.,DXC,2638084,0.03,80.02
+06/11/2021,Newell Brands Inc,NWL,3916178,0.03,27.87
+06/11/2021,Regency Centers Corporation,REG,1636436,0.03,111.56
+06/11/2021,NRG Energy Inc.,NRG,2535242,0.03,10.91
+06/11/2021,Molson Coors Beverage Company Class B,TAP,1950594,0.03,24.99
+06/11/2021,Everest Re Group Ltd.,RE,414442,0.03,29.25
+06/11/2021,News Corporation Class A,NWSA,4053186,0.03,79.99
+06/11/2021,Robert Half International Inc.,RHI,1172133,0.03,132.13
+06/11/2021,Comerica Incorporated,CMA,1442030,0.03,100.62
+06/11/2021,Invesco Ltd.,IVZ,3901512,0.03,88.95
+06/11/2021,A. O. Smith Corporation,AOS,1402917,0.03,47.94
+06/11/2021,NiSource Inc,NI,4003771,0.03,7.02
+06/11/2021,Western Union Company,WU,4258280,0.03,-10.44
+06/11/2021,Assurant Inc.,AIZ,628440,0.03,29.11
+06/11/2021,Pinnacle West Capital Corporation,PNW,1167729,0.03,-21.46
+06/11/2021,Campbell Soup Company,CPB,2103315,0.03,-14.59
+06/11/2021,Sealed Air Corporation,SEE,1605031,0.02,51.61
+06/11/2021,Globe Life Inc.,GL,984738,0.02,13.25
+06/11/2021,Kimco Realty Corporation,KIM,4481347,0.02,126.84
+06/11/2021,Juniper Networks Inc.,JNPR,3401016,0.02,56.14
+06/11/2021,Nielsen Holdings Plc,NLSN,3707460,0.02,52.1
+06/11/2021,DaVita Inc.,DVA,747780,0.02,13.87
+06/11/2021,Zions Bancorporation N.A.,ZION,1701518,0.02,109.47
+06/11/2021,Franklin Resources Inc.,BEN,2827303,0.02,86.49
+06/11/2021,Huntington Ingalls Industries Inc.,HII,417250,0.02,28.73
+06/11/2021,Discovery Inc. Class C,DISCK,3005063,0.02,37.47
+06/11/2021,Federal Realty Investment Trust,FRT,720160,0.02,84.39
+06/11/2021,APA Corp.,APA,3915877,0.02,232.59
+06/11/2021,Organon & Co.,OGN,2620891,0.02,3628.0
+06/11/2021,PVH Corp.,PVH,736742,0.02,101.23
+06/11/2021,Rollins Inc.,ROL,2294453,0.02,-12.29
+06/11/2021,IPG Photonics Corporation,IPGP,372410,0.02,-11.61
+06/11/2021,Alaska Air Group Inc.,ALK,1287034,0.02,57.01
+06/11/2021,Vornado Realty Trust,VNO,1626379,0.02,40.93
+06/11/2021,People's United Financial Inc.,PBCT,4409642,0.02,70.01
+06/11/2021,Cabot Oil & Gas Corporation,COG,4138407,0.02,38.98
+06/11/2021,Gap Inc.,GPS,2131848,0.02,18.92
+06/11/2021,Leggett & Platt Incorporated,LEG,1378280,0.02,6.08
+06/11/2021,Hanesbrands Inc.,HBI,3614366,0.02,9.9
+06/11/2021,Perrigo Co. Plc,PRGO,1379720,0.02,12.3
+06/11/2021,NOV Inc.,NOV,4023028,0.02,61.99
+06/11/2021,Unum Group,UNM,2110867,0.02,45.72
+06/11/2021,Ralph Lauren Corporation Class A,RL,499734,0.02,85.62
+06/11/2021,U.S. Dollar,CASH_USD,57067884,0.01,
+06/11/2021,Fox Corporation Class B,FOX,1592933,0.01,51.83
+06/11/2021,Discovery Inc. Class A,DISCA,1676163,0.01,29.18
+06/11/2021,Under Armour Inc. Class A,UAA,1958798,0.01,73.75
+06/11/2021,Under Armour Inc. Class C,UA,2033074,0.01,67.11
+06/11/2021,News Corporation Class B,NWS,1271842,0.01,81.45
