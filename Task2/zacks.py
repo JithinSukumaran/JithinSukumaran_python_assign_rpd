@@ -1,3 +1,7 @@
+# The following code is a scrapy spider and has to be ran using the scrapy framework
+# use command 'scrapy crawl zacks' in the CLI to run the spider
+# The data.csv file containing the ticker names must be present in the same folder this spider is located
+
 import scrapy
 import pandas as pd
 import numpy as np
@@ -83,4 +87,4 @@ class ZacksSpider(scrapy.Spider):
 
         df.to_csv(f'{ticker}.csv')  # To save the result in a csv file
     
-        # You will find 4 csv files in the folder containing the spider
+        # You will find 4 new csv files of format ticker_name.csv in the folder containing the spider
