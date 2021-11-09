@@ -14,6 +14,3 @@ Task 2:
 - Run the spider from CLI using command 'scrapy crawl zacks'
 - Once spider has stoped you will find 4 new csv files with format ticker_name.csv in the folder containing the spider
 
----
-In case of any confusion feel free to call me:
-8655857686
